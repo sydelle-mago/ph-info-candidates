@@ -1,0 +1,90 @@
+<html>
+    <head>
+        <title>2022 Philippine Presidential Election</title>
+
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        
+            <meta name="description" content="Live 2022 Philippine presidential election tracker. Read the background of the candidates and know how to vote." />
+            <meta name="keywords" content="election, 2022 Philippine presidential election, halalan, election" />
+        
+            <meta property="og:type" content="website">
+            <meta property="og:url" content="https://2022PHElection.com/">
+            <meta property="og:title" content="2022 Philippine Presidential Election">
+            <meta property="og:description" content="Live 2022 Philippine presidential election tracker. Read the background of the candidates and know how to vote.">
+            <meta property="og:image" content="https://ncov2019.live/images/thumbnailcorona.jpg">
+      
+        <style>
+
+            body {
+                margin: 0;
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                background-color: #5CDB95;
+                color: #305386;
+            }
+
+            .header {
+                overflow: hidden;
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                padding: 20px 10px;
+            }
+
+            .header a {
+                float: left;
+                color: #05386b;
+                text-align: center;
+                padding: 12px;
+                text-decoration: none;
+                font-size: 18px;
+                font-weight: 700;
+                line-height: 25px;
+                border-radius: 4px;
+            }
+
+            #info {
+                border-radius: 25px;
+                background: #6ef0a8;
+                margin-left: 50px;
+                padding: 30px;
+                width: 250px;
+                height: 130px;
+            }
+
+            #candidates {
+                border-radius: 25px;
+                background: #6ef0a8;
+                margin-left: 50px;
+                padding: 30px;
+                width: 250px;
+                height: 500px;
+            }
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <div class="header">
+            <a href=#default" class="logo">2022 Philippine Election</a>
+            <div class="header-left">
+                <a class="active" href="#home">Home</a>
+                <a href="#candidates">Candidates</a>
+                <a href="#About">About</a>
+            </div>
+        </div>
+
+        <p id="info">
+            Are you registered to vote? If not, then
+            <a href="https://comelec.gov.ph/?r=VoterRegistration/iRehistro">Register Now!</a><br><br>
+            There are 18 days left before the last day of
+            the Extended Voter Regsitration <br>(October 11-30, 2021)  
+        </p>
+
+        <p id="candidates">
+            
+        </p>
+    </body>
+
+</html>
